@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/lib/opus-java-natives-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jda-chewtils-examples-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/okio-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jackson-core-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jna-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/opus-java-api-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jda-chewtils-command-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/kotlin-stdlib-1.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/JDA-4.3.0_277.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jda-chewtils-doc-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/annotations-16.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/JDA-5.0.0-alpha.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/javase-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/okhttp-3.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jackson-annotations-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/nv-websocket-client-2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/annotations-23.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jai-imageio-core-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jda-chewtils-commons-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/commons-codec-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/kotlin-stdlib-common-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jcommander-1.72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/okio-1.17.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/trove4j-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jackson-databind-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/json-20160810.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/JDA-5.0.0-alpha.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/okhttp-4.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jda-chewtils-oauth2-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/totp-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/core-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jda-chewtils-menu-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/logback-classic-1.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
